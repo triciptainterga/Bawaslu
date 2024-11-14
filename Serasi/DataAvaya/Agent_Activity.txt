@@ -1,0 +1,11 @@
+Split/Skill:;Informasi;Pengaduan;CC Priok;CC Ps Baru;CC Soetta
+;Agent Name;Login ID;Extn;AUX Reason;State;Split/Skill;Time;VDN Name;Interrupt Status
+5;M. Ekawinny Darmawan;1338;1101;Sholat;AUX;0;.02;;NA
+5;Muhammad Farrell;1315;1116;Sholat;AUX;0;5.40;;NA
+5;M. Afdal;1351;1122;Istirahat;AUX;0;116.53;;NA
+5;M. Afdal;1351;1122;Istirahat;AUX;0;116.53;;NA
+5;M. Ekawinny Darmawan;1338;1101;Sholat;AUX;0;.02;;NA
+5;KGS M. Ridhwan;2011;2103;Istirahat;AUX;0;10.55;;NA
+2;Dannish Rafi H;1349;1120;;AVAIL;0;11.12;;NA
+5;Ririn Dwi Utami;1367;1121;Sholat;AUX;0;2.42;;NA
+2;Dannish Rafi H;1349;1120;;AVAIL;0;11.12;;NA
